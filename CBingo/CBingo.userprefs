@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="CBingo/CBingo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CBingo/MainWindow.cs">
+    <Files>
+      <File FileName="CBingo/Program.cs" Line="16" Column="2" />
+      <File FileName="CBingo/Panel.cs" Line="37" Column="1" />
+      <File FileName="CBingo/Bombo.cs" Line="26" Column="2" />
+      <File FileName="CBingo/MainWindow.cs" Line="16" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

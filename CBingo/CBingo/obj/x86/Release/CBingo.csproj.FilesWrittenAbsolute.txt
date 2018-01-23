@@ -1,0 +1,6 @@
+/home/alebar/ed4/CBingo/CBingo/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/alebar/ed4/CBingo/CBingo/obj/x86/Release/CBingo.gtk-gui.gui.stetic
+/home/alebar/ed4/CBingo/CBingo/bin/Release/CBingo.exe.mdb
+/home/alebar/ed4/CBingo/CBingo/bin/Release/CBingo.exe
+/home/alebar/ed4/CBingo/CBingo/obj/x86/Release/CBingo.exe
+/home/alebar/ed4/CBingo/CBingo/obj/x86/Release/CBingo.exe.mdb
